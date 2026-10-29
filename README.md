@@ -4,8 +4,8 @@ This repository uses npm workspaces and Turborepo.
 
 ## Packages
 
-- `frontend` — Next.js application (http://localhost:3000)
-- `api` — NestJS application (http://localhost:3001)
+- `apps/frontend` — Next.js application (http://localhost:3000)
+- `apps/api` — NestJS application (http://localhost:3001)
 
 ## Commands
 
